@@ -1,11 +1,7 @@
 # TP Integrador grupal — Computación Aplicada (UP, 2º cuatrimestre 2026)
 
-## Integrantes
-- Thomas Caronia
-- _(completar)_
-- _(completar)_
-- _(completar)_
-- _(completar)_
+## Integrante
+- Thomas Caronia (trabajo realizado en forma individual)
 
 ## Contenido del repositorio
 | Archivo | Qué es |
